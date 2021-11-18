@@ -12,7 +12,9 @@ $**touch Dockerfile**
 $**nano Dockerfile**
 
 **FROM** ubuntu
+
 **RUN** apt-get update
+
 **CMD** ["echo", "Hello World..!"]
 
 3) Buildo l'immagine dal Dockerfile (in questo caso il nome dell'immagine sarà "prova")
