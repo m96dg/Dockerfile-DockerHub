@@ -1,4 +1,4 @@
-# Docker
+# How To
 Info generali su Docker: dalla creazione di un'immagine da Dockerfile al push su DockerHub
 
 1) Creo una cartella di Docker files
