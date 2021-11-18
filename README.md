@@ -31,8 +31,8 @@ $**docker login**
 
 6) Taggo un'immagine in modo da poterla pushare in una repo di DockerHub
 
-$**docker tag <nome_immagine> <nome_utente>/<nome_repository>**
+$**docker tag [nome_immagine] [nome_utente]/[nome_repository]**
 
 7) Push di un'immagine su DockerHub
 
-$**docker push <nome_utente>/<nome_repository>**
+$**docker push [nome_utente]/[nome_repository]**
